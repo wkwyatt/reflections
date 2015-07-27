@@ -1,7 +1,30 @@
 What happens when you initialize a repository?  Why do you need to do it?
 
-When you initialize a repository it saves a .git file which allows you to view older versions of it.
+When you initialize a repository it saves a .git file which allows you to view older versions of them.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is different from the working directory because it is just the holding place of files that are going to be committed.  It is different from the repository because these files haven’t been permanently saved yet.  Its value is that you can make commits that are relevant only to the files that are being changed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Running git diff or git diff --staged will give you the difference between the working directory and the staging area or the staging area and the commit log respectively 
+
+What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
+
+Branches would allow you to experiment with different structures and builds not to mention the ability to add new features and test them before seeing how they would react with other features
+
+How do the diagrams help you visualize the branch structure?
+
+It help to show what commits that you are currently working on verses commits that may be unreachable
+
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+
+Merging to branches together saves the files that were added and removes any files that were removed by a user
+We represent it in the diagram the way that we do so that we can see that both changes are merged into one file 
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+When the changes are clear and they don't have any direct affect on one another the 
+auto merge takes less work vs the manual merge you have to snuff out the 
+issues between the two commits
