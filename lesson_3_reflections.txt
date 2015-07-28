@@ -20,3 +20,11 @@ changes.  Or you may make changes you aren't sure you want
  access to, you would clone a repo from github or files from another users
  computer.  Branches are saved separately from the master to allow for experimentation
  and new development without having to change the main version of a file
+ 
+ What is the benefit of having a copy of the last known state of the
+ remote stored locally?
+ 
+ The benefit of having a copy of the last known state of the remote stored locally
+ would be to see what changes have been made in comparison to the work that you 
+ may have done on a repo.
+ 
