@@ -11,3 +11,12 @@ If someone else updates the log and you are not aware of the
 changes.  Or you may make changes you aren't sure you want
  to keep on GitHub until you get some feedback from other 
  users.
+ 
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ 
+ Forks are clones of someone elses repo on GitHub, you would use that
+ when you want to make changes to someone elses files but don't have the
+ access to their repo.  Clones are local clones of files and folders you have 
+ access to, you would clone a repo from github or files from another users
+ computer.  Branches are saved separately from the master to allow for experimentation
+ and new development without having to change the main version of a file
