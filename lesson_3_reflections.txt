@@ -36,3 +36,11 @@ changes.  Or you may make changes you aren't sure you want
  GitHub is much easier to share files, it allow users to upload and download files and 
  make changes seamlessly.
  
+ When would you want to make changes in a separate branch rather than directly in master?
+ What benefits does each approach have?
+ 
+ You would make changes in a separate branch rather than master when there is a new feature that you want to test
+  out or a change in structure that you may want to experiment with.  Making changes directly to 
+  master makes the process much more simple, but it doesn't give you the freedom to experiment 
+  with new code and structures without consequence like the creation of new branches does.
+ 
