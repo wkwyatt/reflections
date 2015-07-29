@@ -28,3 +28,11 @@ changes.  Or you may make changes you aren't sure you want
  would be to see what changes have been made in comparison to the work that you 
  may have done on a repo.
  
+ How would you collaborate without using Git or GitHub?  What would
+ be easier, and what would be harder?
+ 
+ Collaborating would usually require setting up a local server with access to files
+ from everyone, but there would be a hard time seeing what files were updated or changed.
+ GitHub is much easier to share files, it allow users to upload and download files and 
+ make changes seamlessly.
+ 
